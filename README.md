@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 -->
 
 A little bit boring yeah? Just go with the flow
+
+[![despanol's 42 stats](https://badge.mediaplus.ma/binary/despanol?1337Badge=off)](https://github.com/oakoudad/badge42)
