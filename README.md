@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 
 A little bit boring yeah? Just go with the flow
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/despanol?1337Badge=off" alt="despanol's 42 stats" /></a>
