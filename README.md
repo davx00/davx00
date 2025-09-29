@@ -1,3 +1,5 @@
+![Cool GIF](https://github.com/davx00/davx00/blob/main/assets/profile.gif?raw=true)
+
 ## Hi there 👋
 
 Here are some ideas to get you started:
