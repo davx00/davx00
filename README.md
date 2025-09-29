@@ -1,4 +1,17 @@
 <div align="center">
+  <div style="font-size: 48px; font-weight: bold; color: #0066FF; margin-bottom: 20px; animation: fadeInLetters 3s ease-in-out;">
+    <style>
+      @keyframes fadeInLetters {
+        0% { opacity: 0; transform: translateY(-20px); }
+        20% { opacity: 0.2; }
+        40% { opacity: 0.4; }
+        60% { opacity: 0.6; }
+        80% { opacity: 0.8; }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+    WELCOME
+  </div>
   <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkxNDA4NzksIm5iZiI6MTc1OTE0MDU3OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI5VDEwMDkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkN2JjMzgxZjE1MjFlODg3OGRlZTQzMTQxYzU3NzI4Y2M3NDE4MzY4OTVjYTY5NmYyNTk4ZDlhZGZjM2RkYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IVGDvgzB6fI6qtZ1Qv9K6l42x09F83VwF2_vb5ZaEm8" alt="Animated GIF" width="800"/>
 </div>
 
