@@ -4,8 +4,6 @@
 
 
 
-<h2 style="color🟢; font-size:50px;">WELCOME</h2>
-
 [![despanol's 42 stats](https://badge.mediaplus.ma/binary/despanol?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
