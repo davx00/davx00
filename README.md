@@ -1,4 +1,10 @@
-<h1 style="color🟢; font-size:50px;">WELCOME</h1>
+
+<h1>MI PAGINA WEB</h1>
+<p>https://davx.dev</p>
+
+
+
+<h2 style="color🟢; font-size:50px;">WELCOME</h2>
 
 [![despanol's 42 stats](https://badge.mediaplus.ma/binary/despanol?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -6,7 +12,3 @@
 <div align="center">
   <img src="[https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkxNDA4NzksIm5iZiI6MTc1OTE0MDU3OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI5VDEwMDkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkN2JjMzgxZjE1MjFlODg3OGRlZTQzMTQxYzU3NzI4Y2M3NDE4MzY4OTVjYTY5NmYyNTk4ZDlhZGZjM2RkYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IVGDvgzB6fI6qtZ1Qv9K6l42x09F83VwF2_vb5ZaEm8](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.42barcelona.com%2Fnetwork%2F&psig=AOvVaw1pZD2wdUQPwFoOMyJXWceU&ust=1759485462597000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiRgaOghZADFQAAAAAdAAAAABAE)" alt="" width="800"/>
 </div>
-
-
-<h2>MI PAGINA WEB</h2>
-<p>https://davx.dev</p>
